@@ -1,0 +1,11 @@
+@article{REPO132,
+    author = "Shen, Yifei and Shi, Yuanming and Zhang, Jun and Letaief, Khaled B.",
+    doi = "10.1109/JSAC.2020.3036965",
+    journal = "IEEE Journal on Selected Areas in Communications",
+    keywords = "Wireless networks;Neural networks;Resource management;Optimization;Computer architecture;Array signal processing;Scalability;Radio resource management;wireless networks;graph neural networks;distributed algorithms;permutation equivariance",
+    number = "1",
+    pages = "101-115",
+    title = "{Graph Neural Networks for Scalable Radio Resource Management: Architecture Design and Theoretical Analysis}",
+    volume = "39",
+    year = "2021"
+}
